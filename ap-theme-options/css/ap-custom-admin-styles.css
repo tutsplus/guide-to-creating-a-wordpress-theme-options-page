@@ -1,0 +1,12 @@
+.ap-custom-thumbnail {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 18px;
+    border: 1px solid #cccccc;
+    display: block;
+    padding: 15px;
+}
+
+.hide {
+    display: none !important;
+}
